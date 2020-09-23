@@ -11,7 +11,7 @@ As the name says, these are the file used for the program of the Server side usi
 This is the Android application created using Xamarin for the client side.
 
 ### CONNECT Arduino:
-Contains the C++ program used by Arduino for the read of the commands sent with serial communication.
+Contains the C++ program used by Arduino for reading the commands sent with serial communication.
 
 ## Why this project ?
 I have to much free time, also I wanted to learn more about C#, networking, Arduino and Android. All started because I didn't bought a WiFi shield for Arduino (I have an RGB strip inside the case of my PC), so I decided to find an alternative solution (I could buy a new one now, but is less fun). Coming soon I will try to use USB OTG so I will be able to communicate with Arduino directly using a smartphone.
