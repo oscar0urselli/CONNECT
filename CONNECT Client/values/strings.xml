@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CONNECT Client Xamarin</string>
+    <string name="action_settings">Settings</string>
+    <string name="effects_prompt">Choose an effect</string>
+    <string-array name="effects_array">
+        <item>Rainbow</item>
+        <item>Pulse White</item>
+        <item>Pulse Red</item>
+        <item>Pulse Green</item>
+        <item>Pulse Blue</item>
+        <item>Static</item>
+        <item>RGB Scale</item>
+    </string-array>
+</resources>
