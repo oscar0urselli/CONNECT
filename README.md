@@ -17,4 +17,4 @@ Contains the C++ program used by Arduino for the read of the commands sent with 
 I have to much free time, also I wanted to learn more about C#, networking, Arduino and Android. All started because I didn't bought a WiFi shield for Arduino (I have an RGB strip inside the case of my PC), so I decided to find an alternative solution (I could buy a new one now, but is less fun). Coming soon I will try to use USB OTG so I will be able to communicate with Arduino directly using a smartphone.
 
 ## Should I use it ?
-No, I mean, I created a public repositories with a MIT license (so you can), but this project has no documentation (good luck figuring out my code). There are a lot of bugs or thing to do in a better way, I will try to improve the things. However, if you want to suggest something, do not esitate.
+No, I mean, I created a public repositories with a MIT license (so you can), but this project has no documentation (good luck figuring out my code). There are a lot of bugs or things to do in a better way, I will try to improve the code. However, if you want to suggest something, do not esitate.
